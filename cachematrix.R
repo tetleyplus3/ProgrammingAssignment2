@@ -4,6 +4,7 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
+     ## R program based on sample mean file
 
 }
 
